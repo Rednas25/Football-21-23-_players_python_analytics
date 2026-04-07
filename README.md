@@ -11,7 +11,7 @@ The datasets include statistics such as shooting, passing, defensive actions, pr
 ## src
 
 The `src` folder contains data preparation utilities used in the project.
-`data_prepare.py` loads both datasets, harmonizes their columns, converts numeric values safely and prepares a base dataframe with player seasons and cleaned statistics. :contentReference[oaicite:0]{index=0}
+`data_prepare.py` loads both datasets, harmonizes their columns, converts numeric values safely and prepares a base dataframe with player seasons and cleaned statistics.
 
 It also:
 - filters players with low minutes
